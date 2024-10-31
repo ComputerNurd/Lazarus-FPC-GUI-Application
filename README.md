@@ -5,4 +5,6 @@ Just copy all of the files to whatever working directory you wish to use. Then s
 select "Open Project". Navigate to the "myapplication.lpi" file and open it. The project's files will appear in the Lazarus 
 source code editor window.
 
+This is the code as it existed before and during the Part 9 video.
+
 Have fun.
