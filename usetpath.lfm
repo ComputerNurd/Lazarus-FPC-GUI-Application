@@ -1,0 +1,51 @@
+object fSetPath: TfSetPath
+  Left = 589
+  Height = 226
+  Top = 257
+  Width = 534
+  Caption = 'MyApplication - Set Path'
+  ClientHeight = 226
+  ClientWidth = 534
+  OnShow = FormShow
+  LCLVersion = '3.4.0.0'
+  object Label1: TLabel
+    Left = 8
+    Height = 34
+    Top = 88
+    Width = 96
+    Alignment = taRightJustify
+    AutoSize = False
+    Caption = 'Select Path '
+    Layout = tlCenter
+  end
+  object edtPath: TEdit
+    Left = 115
+    Height = 34
+    Top = 88
+    Width = 309
+    AutoSize = False
+    TabOrder = 0
+  end
+  object btnChoose: TButton
+    Left = 432
+    Height = 34
+    Top = 88
+    Width = 75
+    Caption = 'Choose'
+    TabOrder = 1
+    OnClick = btnChooseClick
+  end
+  object btnSave: TButton
+    Left = 224
+    Height = 25
+    Top = 152
+    Width = 75
+    Caption = 'SAVE'
+    TabOrder = 2
+    OnClick = btnSaveClick
+  end
+  object dlgSelDir: TSelectDirectoryDialog
+    Left = 480
+    Top = 16
+  end
+end

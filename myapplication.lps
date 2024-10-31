@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="myapplication.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="26" Y="14"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitmyapplication.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMyApplication"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitMyApplication"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="25" Y="38"/>
+        <UsageCount Value="59"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitlogon.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLogOn"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UnitLogOn"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="18" Y="9"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="usetpath.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fSetPath"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uSetPath"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="47"/>
+        <CursorPos X="10" Y="72"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uusersadd.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fUsersAdd"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uUsersAdd"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="42"/>
+        <CursorPos Y="51"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upasswordeval.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPasswordEval"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="90"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="TestStuff/unitlogon.pas"/>
+        <ComponentName Value="frmLogOn"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UnitLogOn"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="74"/>
+        <CursorPos Y="91"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3618"/>
+        <CursorPos Y="3630"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/include/wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8290"/>
+        <CursorPos Y="8302"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/include/customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="910"/>
+        <CursorPos Y="923"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1806"/>
+        <CursorPos X="23" Y="1819"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/packages/hash/src/md5.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="66"/>
+        <CursorPos X="6" Y="52"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/include/customedit.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="522"/>
+        <CursorPos Y="540"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/interfaces/gtk2/gtk2wscontrols.pp"/>
+        <UnitName Value="Gtk2WSControls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="311"/>
+        <CursorPos Y="323"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/widgetset/wsproc.pp"/>
+        <UnitName Value="WSProc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos Y="65"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UserRec.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="4" Y="23"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="urfileio.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uRFileIO"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="37" Y="167"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="76" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="95" Column="30" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="uusersadd.pas"/>
+        <Caret Line="51" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="uusersadd.pas"/>
+        <Caret Line="56" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="uusersadd.pas"/>
+        <Caret Line="57" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="uusersadd.pas"/>
+        <Caret Line="63" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="69" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="70" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="71" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="76" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="77" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="78" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="79" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="80" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="82" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="83" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="84" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="85" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="88" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="89" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="upasswordeval.pas"/>
+        <Caret Line="90" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="uusersadd.pas"/>
+        <Caret Line="51" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="uusersadd.pas"/>
+        <Caret Line="56" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="urfileio.pas"/>
+        <Caret Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="urfileio.pas"/>
+        <Caret Line="173" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="urfileio.pas"/>
+        <Caret Line="59" Column="33" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="urfileio.pas"/>
+        <Caret Line="100" Column="17" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="urfileio.pas"/>
+        <Caret Line="103" Column="17" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="urfileio.pas"/>
+        <Caret Line="105" Column="6" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="urfileio.pas"/>
+        <Caret Line="144" Column="12" TopLine="133"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
